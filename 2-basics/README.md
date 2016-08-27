@@ -29,7 +29,7 @@ Fizz Buzz
 Use a switch statement
 
 ### Variant 2
-Use a command line argument to pass the year
+Use a command line argument to pass the number to count up to
 
 Hint: https://golang.org/pkg/flag/
 
